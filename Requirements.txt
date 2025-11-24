@@ -1,4 +1,5 @@
-streamlit
+streamlit>=1.28
 sqlalchemy
 pandas
 plotly
+openpyxl  # optional: for Excel export if you add later
