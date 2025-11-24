@@ -1,8 +1,4 @@
 streamlit
-pandas
-numpy
 sqlalchemy
-python-dateutil
-pytz
-joblib
-scikit-learn
+pandas
+plotly
