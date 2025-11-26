@@ -1,5 +1,9 @@
-streamlit>=1.28
-sqlalchemy
+streamlit
 pandas
+numpy
+sqlalchemy
+python-dateutil
+pytz
+joblib
+scikit-learn
 plotly
-openpyxl  # optional: for Excel export if you add later
